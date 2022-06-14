@@ -1,0 +1,14 @@
+//
+@use 'bootstrap';
+header,
+footer {
+    background-color: palegoldenrod;
+}
+
+.movies {
+    .card {
+        background-color: aliceblue;
+        padding: 30px;
+        border-radius: 15px;
+    }
+}
